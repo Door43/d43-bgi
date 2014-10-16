@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bgi:home|Door43 (bgi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bgi|d43-bgi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bgi/archive/master.zip|d43-bgi.zip]]
+
+**Recent Changes**
+{{changes>ns = bgi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bgi|Ethnologue data]]
+
